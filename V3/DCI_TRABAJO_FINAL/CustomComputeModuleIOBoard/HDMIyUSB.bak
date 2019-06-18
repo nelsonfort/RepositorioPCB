@@ -1,0 +1,67 @@
+EESchema Schematic File Version 4
+LIBS:CustomComputeModuleIOBoard-cache
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 7
+Title "CustomRaspberryIOBoard"
+Date "2019-06-10"
+Rev "RevA"
+Comp "FIUBA-CESE-DCI   ---   ITBA"
+Comment1 "Autor: Nelson Ariel Fortunatti"
+Comment2 "con salidas a rele y entradas ADC"
+Comment3 "Se realiza una placa para la conexión de un Compute Module 3+ "
+Comment4 ""
+$EndDescr
+Text HLabel 1800 2300 0    50   Input ~ 0
+HDMI_D1_P
+Text HLabel 1800 2200 0    50   Input ~ 0
+HDMI_D1_N
+Text HLabel 1800 2500 0    50   Input ~ 0
+HDMI_D2_P
+Text HLabel 1800 2400 0    50   Input ~ 0
+HDMI_D2_N
+Text HLabel 5200 2850 0    50   Input ~ 0
+USB_OTGID
+Text HLabel 1800 2750 0    50   Input ~ 0
+HDMI_SDA
+Text HLabel 1800 2650 0    50   Input ~ 0
+HDMI_CEC
+Text HLabel 1800 2850 0    50   Input ~ 0
+HDMI_SCL
+Text HLabel 5200 2650 0    50   Input ~ 0
+USB_DM
+Text HLabel 5200 2550 0    50   Input ~ 0
+USB_DP
+Text HLabel 6000 1500 0    50   Input ~ 0
+EMMC_EN_N_1V8
+Text HLabel 1800 1850 0    50   Input ~ 0
+HDMI_HPD_N_1V8
+Text HLabel 1800 3100 0    50   Input ~ 0
+HDMI_CK_P
+Text HLabel 1800 3000 0    50   Input ~ 0
+HDMI_CK_N
+Text HLabel 1800 2100 0    50   Input ~ 0
+HDMI_D0_P
+Text HLabel 1800 2000 0    50   Input ~ 0
+HDMI_D0_N
+Text HLabel 7800 1500 0    50   Input ~ 0
+EMMC_DISABLE_N
+Text Notes 850  1500 0    118  ~ 0
+Se deja la estructura jerarquica \npara desarrollar en este esquemático \nla conexión HDMI a un conector \nTipo A Ver. 1.4
+NoConn ~ 1800 1850
+NoConn ~ 1800 2000
+NoConn ~ 1800 2100
+NoConn ~ 1800 2200
+NoConn ~ 1800 2300
+NoConn ~ 1800 2400
+NoConn ~ 1800 2500
+NoConn ~ 1800 2650
+NoConn ~ 1800 2750
+NoConn ~ 1800 2850
+NoConn ~ 1800 3000
+NoConn ~ 1800 3100
+Text Notes 2100 2050 0    51   ~ 0
+Las etiquetas jerarquicas tienen \nuna cruz indicando que no estan \nconectadas a nada.
+$EndSCHEMATC
