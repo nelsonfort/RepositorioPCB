@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name sodimm-200forrpi)(type Legacy)(uri C:/Users/nelso/OneDrive/Documents/DCI_TRABAJO_FINAL/sodimm-200forrpi.lib)(options "")(descr ""))
+  (lib (name ESD5384)(type Legacy)(uri C:/Users/nelso/OneDrive/Documents/DCI_TRABAJO_FINAL/ESD5384.lib)(options "")(descr ""))
+  (lib (name FSUSB42UMX)(type Legacy)(uri C:/Users/nelso/OneDrive/Documents/DCI_TRABAJO_FINAL/FSUSB42UMX.lib)(options "")(descr ""))
+)

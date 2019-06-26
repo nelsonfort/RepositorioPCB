@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name SymbolsAndFootprints)(type KiCad)(uri C:/Users/nelso/OneDrive/Documents/DCI_TRABAJO_FINAL/SymbolsAndFootprints)(options "")(descr ""))
+  (lib (name DCI_TRABAJO_FINAL)(type KiCad)(uri C:/Users/nelso/OneDrive/Documents/DCI_TRABAJO_FINAL)(options "")(descr ""))
+)
